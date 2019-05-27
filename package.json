@@ -1,7 +1,7 @@
 {
-  "name": "Project-4",
+  "name": "Dart Language",
   "version": "1.0.0",
-  "description": "Brasil Web Solutions ",
+  "description": "Standart Flutter ",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
