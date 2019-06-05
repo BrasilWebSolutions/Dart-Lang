@@ -1,12 +1,15 @@
 {
   "name": "Dart Language",
   "version": "1.0.0",
-  "description": "Standart Flutter ",
+  "description": "Standart Flutter",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
+  
   "dependencies": {}
   
 }
+
+
