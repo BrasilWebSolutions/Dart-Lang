@@ -13,6 +13,16 @@ $app->get("/", function(){
     $page->setTpl("index");
 });
 
+$app->get("/blog", function(){
+    $page = new Page();
+    $page->setTpl("blog");
+});
+
+$app->get("/contact", function(){
+    $page = new Page();
+    $page->setTpl("contact");
+});
+
 
 $app->run();
 
