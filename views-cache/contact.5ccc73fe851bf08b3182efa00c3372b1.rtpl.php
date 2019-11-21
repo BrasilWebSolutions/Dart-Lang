@@ -15,7 +15,7 @@
                     <div class="breadcrumb">
                         <ul>
                             <li><a href="/">Home</a></li>
-                            <li class="current-page"><a href="#">Contact</a></li>
+                            <li class="current-page"><a href="/contact">Contato</a></li>
                         </ul>
                     </div>
                 </li>

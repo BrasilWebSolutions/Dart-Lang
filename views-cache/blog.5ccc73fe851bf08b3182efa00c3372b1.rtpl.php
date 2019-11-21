@@ -1,5 +1,4 @@
 <?php if(!class_exists('Rain\Tpl')){exit;}?>
-
 <section class="mo-content">
     <div class="row">
         <div class="large-8 medium-8 medium-potrait-12 mo-tablet pbottom columns">

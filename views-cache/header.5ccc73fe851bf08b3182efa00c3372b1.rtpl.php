@@ -49,7 +49,7 @@
             <div class="large-4 medium-4 columns">
                 <h4>Sobre Nós</h4>
                 <p>Sed ut perspiciatis unde omnisite natus error sittery voluptatem accusantium doloremque quae ab illo inventore veritatis etquasi.</p>
-                <a href="#" class="button small bluex">Mais sobre nós <i class="icon-circleright"></i></a>
+                <a href="/about" class="button small bluex">Mais sobre nós <i class="icon-circleright"></i></a>
             </div>
             <div class="large-4 medium-4 columns">
                 <h4>Siga-nos nas Redes Sociais</h4>
@@ -57,18 +57,12 @@
                     <li><a class="social-twitter" href="#"></a></li>
                     <li><a class="social-facebook" href="#"></a></li>
                     <li><a class="social-google" href="#"></a></li>
-                    <li><a class="social-dribbble" href="#"></a></li>
                     <li><a class="social-linkedin" href="#"></a></li>
                     <li><a class="social-wordpress" href="#"></a></li>
                     <li><a class="social-youtube" href="#"></a></li>
                     <li><a class="social-instagram" href="#"></a></li>
-                    <li><a class="social-vimeo" href="#"></a></li>
-                    <li><a class="social-spotify" href="#"></a></li>
                     <li><a class="social-yahoo" href="#"></a></li>
                     <li><a class="social-skype" href="#"></a></li>
-                    <li><a class="social-feedburner" href="#"></a></li>
-                    <li><a class="social-tumblr" href="#"></a></li>
-                    <li><a class="social-blogger" href="#"></a></li>
                     <li><a class="social-pinterest" href="#"></a></li>
                     <li><a class="social-email1" href="#"></a></li>
                     <li><a class="social-rss" href="#"></a></li>

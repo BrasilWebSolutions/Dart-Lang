@@ -8,14 +8,14 @@
                 </li>
 
                 <li class="pagetitle-right mo-animate" data-animate="fadeInLeft">
-                    <h2>Our Services</h2>
-                    <p>We deliver intelligent full builds for adventurous brands.</p>
+                    <h2>Nossos Serviços</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
                     <div class="breadcrumb">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="#">Pages</a></li>
-                            <li class="current-page"><a href="#">Services</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="#">Login</a></li>
+                            <li class="current-page"><a href="/services">Serviços</a></li>
                         </ul>
                     </div>
                 </li>
