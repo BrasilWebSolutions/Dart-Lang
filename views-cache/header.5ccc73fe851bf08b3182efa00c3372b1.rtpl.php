@@ -120,8 +120,8 @@
                 <nav id="mo-menu">
                     <ul class="menu sm">
                         <li class="active"><a href="/">Home</a></li>
-                        <li><a href="/">Serviços</a></li>
-                        <li><a href="/">Sobre</a></li>
+                        <li><a href="/services">Serviços</a></li>
+                        <li><a href="/about">Sobre</a></li>
                         <li><a href="/blog">Blog</a></li>
                         <li><a href="/contact">Contato</a></li>
                     </ul>

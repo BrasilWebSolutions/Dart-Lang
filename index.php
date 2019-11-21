@@ -23,6 +23,16 @@ $app->get("/contact", function(){
     $page->setTpl("contact");
 });
 
+$app->get("/services", function(){
+    $page = new Page();
+    $page->setTpl("services");
+});
+
+$app->get("/about", function(){
+    $page = new Page();
+    $page->setTpl("about");
+});
+
 
 $app->run();
 
