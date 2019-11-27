@@ -44,65 +44,65 @@
 
 <body>
 <div id="mo-wrapper">
-    <section id="panel">
-        <div class="row">
-            <div class="large-4 medium-4 columns">
-                <h4>Sobre Nós</h4>
-                <p>Sed ut perspiciatis unde omnisite natus error sittery voluptatem accusantium doloremque quae ab illo inventore veritatis etquasi.</p>
-                <a href="/about" class="button small bluex">Mais sobre nós <i class="icon-circleright"></i></a>
-            </div>
-            <div class="large-4 medium-4 columns">
-                <h4>Siga-nos nas Redes Sociais</h4>
-                <ul class="mo-social square">
-                    <li><a class="social-twitter" href="#"></a></li>
-                    <li><a class="social-facebook" href="#"></a></li>
-                    <li><a class="social-google" href="#"></a></li>
-                    <li><a class="social-linkedin" href="#"></a></li>
-                    <li><a class="social-wordpress" href="#"></a></li>
-                    <li><a class="social-youtube" href="#"></a></li>
-                    <li><a class="social-instagram" href="#"></a></li>
-                    <li><a class="social-yahoo" href="#"></a></li>
-                    <li><a class="social-skype" href="#"></a></li>
-                    <li><a class="social-pinterest" href="#"></a></li>
-                    <li><a class="social-email1" href="#"></a></li>
-                    <li><a class="social-rss" href="#"></a></li>
-                </ul>
-            </div>
-            <div class="large-4 medium-4 columns">
-                <h4>Faça login na sua conta</h4>
-                <form>
-                    <div class="row">
-                        <div class="form-group large-12 columns">
-                            <input type="text" class="form-control input-lg" id="name" placeholder="Nome">
-                        </div>
+<!--    <section id="panel">-->
+<!--        <div class="row">-->
+<!--            <div class="large-4 medium-4 columns">-->
+<!--                <h4>Sobre Nós</h4>-->
+<!--                <p>Sed ut perspiciatis unde omnisite natus error sittery voluptatem accusantium doloremque quae ab illo inventore veritatis etquasi.</p>-->
+<!--                <a href="/about" class="button small bluex">Mais sobre nós <i class="icon-circleright"></i></a>-->
+<!--            </div>-->
+<!--            <div class="large-4 medium-4 columns">-->
+<!--                <h4>Siga-nos nas Redes Sociais</h4>-->
+<!--                <ul class="mo-social square">-->
+<!--                    <li><a class="social-twitter" href="#"></a></li>-->
+<!--                    <li><a class="social-facebook" href="#"></a></li>-->
+<!--                    <li><a class="social-google" href="#"></a></li>-->
+<!--                    <li><a class="social-linkedin" href="#"></a></li>-->
+<!--                    <li><a class="social-wordpress" href="#"></a></li>-->
+<!--                    <li><a class="social-youtube" href="#"></a></li>-->
+<!--                    <li><a class="social-instagram" href="#"></a></li>-->
+<!--                    <li><a class="social-yahoo" href="#"></a></li>-->
+<!--                    <li><a class="social-skype" href="#"></a></li>-->
+<!--                    <li><a class="social-pinterest" href="#"></a></li>-->
+<!--                    <li><a class="social-email1" href="#"></a></li>-->
+<!--                    <li><a class="social-rss" href="#"></a></li>-->
+<!--                </ul>-->
+<!--            </div>-->
+<!--            <div class="large-4 medium-4 columns">-->
+<!--                <h4>Faça login na sua conta</h4>-->
+<!--                <form>-->
+<!--                    <div class="row">-->
+<!--                        <div class="form-group large-12 columns">-->
+<!--                            <input type="text" class="form-control input-lg" id="name" placeholder="Nome">-->
+<!--                        </div>-->
 
-                        <div class="form-group large-12 columns">
-                            <input type="email" class="form-control" id="email" placeholder="E-mail">
-                        </div>
+<!--                        <div class="form-group large-12 columns">-->
+<!--                            <input type="email" class="form-control" id="email" placeholder="E-mail">-->
+<!--                        </div>-->
 
-                        <div class="form-group large-6 columns">
-                            <div class="checkbox">
-                                <label>
-                                    <input type="checkbox" id="checkbox" value="option1"> Manter logado
-                                </label>
-                            </div>
-                        </div>
+<!--                        <div class="form-group large-6 columns">-->
+<!--                            <div class="checkbox">-->
+<!--                                <label>-->
+<!--                                    <input type="checkbox" id="checkbox" value="option1"> Manter logado-->
+<!--                                </label>-->
+<!--                            </div>-->
+<!--                        </div>-->
 
-                        <div class="form-inline large-6 columns remember">
-                            <button type="submit" class="button small bluex">Login <i class="icon-circleright"></i></button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </section>
+<!--                        <div class="form-inline large-6 columns remember">-->
+<!--                            <button type="submit" class="button small bluex">Login <i class="icon-circleright"></i></button>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </form>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
 
     <header>
         <div class="row">
             <div class="large-12 columns">
-                <div id="toggle-panel">
-                    <a href="#" id="toggle"><i class="icon-plus"></i></a>
-                </div>
+<!--                <div id="toggle-panel">-->
+<!--                    <a href="#" id="toggle"><i class="icon-plus"></i></a>-->
+<!--                </div>-->
 
                 <div id="logo">
                     <a href="/">
